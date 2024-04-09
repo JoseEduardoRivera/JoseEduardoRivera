@@ -10,6 +10,7 @@
   - [Behance](https://www.behance.net/joseedcarrera)
  
 
+## My Work
 | React | TypeScript | TailwindCSS |
 |------------|------------|------------|
 | ![Proyecto 1](https://res.cloudinary.com/domiyeyad/image/upload/v1712683278/Vue.js_3_Setup_1_skccss.png) | ![Proyecto 2](https://res.cloudinary.com/domiyeyad/image/upload/v1712683267/NEXT.JS_op4qpz.png) | ![Proyecto 3](https://res.cloudinary.com/domiyeyad/image/upload/v1712683290/Logo_Courses_Proyect_ewbe1n.png) |
